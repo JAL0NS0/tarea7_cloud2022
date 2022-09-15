@@ -1,0 +1,27 @@
+.encabezado {
+  color: white;
+  background-color: #042940;
+  padding: 20px;
+}
+
+.contenido {
+  /*height: 100%;
+    background-color: red;
+    padding: 0 5%;*/
+  margin: 5% auto;
+  width: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px 20px;
+}
+/*# sourceMappingURL=principal.component.css.map */
